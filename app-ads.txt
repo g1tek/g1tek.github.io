@@ -1,5 +1,1 @@
-# app-ads.txt for Splashy's Car Wash
-# Replace the line below with the exact one from AdMob → Apps → View all apps → app-ads.txt,
-# then remove the leading "#". It must be served from the root of the domain you
-# enter as the developer website in App Store Connect.
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-4878368550487607, DIRECT, f08c47fec0942fa0
