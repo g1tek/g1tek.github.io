@@ -1,4 +1,4 @@
-/* Splashy's Car Wash: animated hero scene.
+/* Bubble Duck Car Wash: animated hero scene.
  *
  * A looping, procedurally drawn wash: a muddy car drives in, gets foamed,
  * scrubbed by a roller brush, rinsed and polished, then drives out, and the
@@ -695,7 +695,7 @@
     ctx.font = `${Math.round(30 * s)}px "Titan One", "Arial Rounded MT Bold", sans-serif`;
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
-    ctx.fillText("SPLASHY'S", archX, top - bh - sh / 2 + 9 * s);
+    ctx.fillText("BUBBLE DUCK", archX, top - bh - sh / 2 + 9 * s);
 
     ctx.fillStyle = '#45526b';
     for (const k of [-200, -120, -40, 40, 120, 200]) {
